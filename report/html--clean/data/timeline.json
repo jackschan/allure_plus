@@ -1,0 +1,73 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "NS1HPTMIVI0VW2I",
+    "children" : [ {
+      "name" : "9012-MainThread",
+      "children" : [ {
+        "name" : "TestAllure.test01",
+        "uid" : "afb4cb841fa11d05",
+        "parentUid" : "1fcd2c87d7dea910cd2e5ffd5e595693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552963815615,
+          "stop" : 1552963815628,
+          "duration" : 13
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestAllure.test05",
+        "uid" : "dd86460e33c96ad0",
+        "parentUid" : "1fcd2c87d7dea910cd2e5ffd5e595693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552963815726,
+          "stop" : 1552963815732,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestAllure.test03",
+        "uid" : "6a76c1b645980fbc",
+        "parentUid" : "1fcd2c87d7dea910cd2e5ffd5e595693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552963815691,
+          "stop" : 1552963815697,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestAllure.test02",
+        "uid" : "d0c6cd6ad98f85e3",
+        "parentUid" : "1fcd2c87d7dea910cd2e5ffd5e595693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552963815681,
+          "stop" : 1552963815686,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestAllure.test04",
+        "uid" : "b555e60ae577f0d",
+        "parentUid" : "1fcd2c87d7dea910cd2e5ffd5e595693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552963815699,
+          "stop" : 1552963815706,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1fcd2c87d7dea910cd2e5ffd5e595693"
+    } ],
+    "uid" : "30e690ea613a909a020f8da363cdb8ed"
+  } ]
+}

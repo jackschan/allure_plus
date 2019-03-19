@@ -1,0 +1,95 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1552963815615" stop="1552963815732">
+  <name>scripts.test01</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1552963815615" status="passed" stop="1552963815628">
+      <name>TestAllure.test01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="9012-MainThread"/>
+        <label name="host" value="NS1HPTMIVI0VW2I"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1552963815627" status="passed" stop="1552963815627">
+          <name>新增方法被执行</name>
+          <title>新增方法被执行</title>
+          <attachments>
+            <attachment source="8d3b174a-99c6-46cd-b1dd-9e1d638534f3-attachment.txt" title="步骤一" type="text/plain"/>
+            <attachment source="43e6da37-676f-4720-ba9e-4a51db497d1f-attachment.txt" title="步骤二" type="text/plain"/>
+            <attachment source="881d939c-f244-4f59-bf2d-ff04f25aa76d-attachment.txt" title="步骤三" type="text/plain"/>
+            <attachment source="f83d57d7-f212-4471-8b58-c33614ce2b15-attachment.txt" title="步骤四" type="text/plain"/>
+            <attachment source="4cc1717f-cde0-4b7c-9627-692204fac2d7-attachment.txt" title="步骤五" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1552963815681" status="passed" stop="1552963815686">
+      <name>TestAllure.test02</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="9012-MainThread"/>
+        <label name="host" value="NS1HPTMIVI0VW2I"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1552963815685" status="passed" stop="1552963815686">
+          <name>新增地址被执行</name>
+          <title>新增地址被执行</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1552963815691" status="passed" stop="1552963815697">
+      <name>TestAllure.test03</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9012-MainThread"/>
+        <label name="host" value="NS1HPTMIVI0VW2I"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1552963815695" status="passed" stop="1552963815697">
+          <name>新增用户被执行</name>
+          <title>新增用户被执行</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1552963815699" status="passed" stop="1552963815706">
+      <name>TestAllure.test04</name>
+      <attachments>
+        <attachment source="860b22d6-1fbd-4582-9ecb-b35b34e62251-attachment.png" title="失败原因：" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="minor"/>
+        <label name="thread" value="9012-MainThread"/>
+        <label name="host" value="NS1HPTMIVI0VW2I"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1552963815726" status="passed" stop="1552963815732">
+      <name>TestAllure.test05</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="trivial"/>
+        <label name="thread" value="9012-MainThread"/>
+        <label name="host" value="NS1HPTMIVI0VW2I"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

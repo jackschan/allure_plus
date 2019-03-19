@@ -1,0 +1,115 @@
+{
+  "uid" : "afb4cb841fa11d05",
+  "name" : "TestAllure.test01",
+  "fullName" : "scripts.test01.TestAllure.test01",
+  "historyId" : "a94b75ee49b29c2af36081399895ae7d",
+  "time" : {
+    "start" : 1552963815615,
+    "stop" : 1552963815628,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "新增方法被执行",
+      "time" : {
+        "start" : 1552963815627,
+        "stop" : 1552963815627,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8103eaa839f68d1f",
+        "name" : "步骤一",
+        "source" : "8103eaa839f68d1f.txt",
+        "type" : "text/plain",
+        "size" : 0
+      }, {
+        "uid" : "7d8041c4ba6b60b4",
+        "name" : "步骤二",
+        "source" : "7d8041c4ba6b60b4.txt",
+        "type" : "text/plain",
+        "size" : 0
+      }, {
+        "uid" : "40a93e32d1d9d94f",
+        "name" : "步骤三",
+        "source" : "40a93e32d1d9d94f.txt",
+        "type" : "text/plain",
+        "size" : 0
+      }, {
+        "uid" : "680c9043f0778f51",
+        "name" : "步骤四",
+        "source" : "680c9043f0778f51.txt",
+        "type" : "text/plain",
+        "size" : 0
+      }, {
+        "uid" : "948f512c5652c2e9",
+        "name" : "步骤五",
+        "source" : "948f512c5652c2e9.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 5,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "NS1HPTMIVI0VW2I"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "9012-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test01"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test01"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAllure.test01"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afb4cb841fa11d05.json",
+  "parameterValues" : [ ]
+}

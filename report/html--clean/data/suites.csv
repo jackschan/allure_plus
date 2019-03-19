@@ -1,0 +1,6 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test01.TestAllure.test01","13",""
+"passed","scripts.test01.TestAllure.test05","6",""
+"passed","scripts.test01.TestAllure.test03","6",""
+"passed","scripts.test01.TestAllure.test02","5",""
+"passed","scripts.test01.TestAllure.test04","7",""

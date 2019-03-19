@@ -1,0 +1,76 @@
+{
+  "uid" : "b555e60ae577f0d",
+  "name" : "TestAllure.test04",
+  "fullName" : "scripts.test01.TestAllure.test04",
+  "historyId" : "370c6ab8a0eb161e09d240f7c3d17a29",
+  "time" : {
+    "start" : 1552963815699,
+    "stop" : 1552963815706,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d5392d0af68a4e51",
+      "name" : "失败原因：",
+      "source" : "d5392d0af68a4e51.png",
+      "type" : "image/png",
+      "size" : 553775
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "NS1HPTMIVI0VW2I"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "9012-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test01"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test01"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAllure.test04"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b555e60ae577f0d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,97 @@
+{
+  "370c6ab8a0eb161e09d240f7c3d17a29" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b555e60ae577f0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552963815699,
+        "stop" : 1552963815706,
+        "duration" : 7
+      }
+    } ]
+  },
+  "bd6ed7ee654fb64e6a3b2d754e24dc40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d0c6cd6ad98f85e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552963815681,
+        "stop" : 1552963815686,
+        "duration" : 5
+      }
+    } ]
+  },
+  "3ea5aefe215ff99509eb3e686331d507" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6a76c1b645980fbc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552963815691,
+        "stop" : 1552963815697,
+        "duration" : 6
+      }
+    } ]
+  },
+  "8c85e2199989842989d13b102f472d6e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dd86460e33c96ad0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552963815726,
+        "stop" : 1552963815732,
+        "duration" : 6
+      }
+    } ]
+  },
+  "a94b75ee49b29c2af36081399895ae7d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "afb4cb841fa11d05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1552963815615,
+        "stop" : 1552963815628,
+        "duration" : 13
+      }
+    } ]
+  }
+}
