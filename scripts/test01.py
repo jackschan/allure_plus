@@ -5,9 +5,11 @@ import allure
 import pytest
 sys.path.append(os.getcwd())
 class TestAllure:
+    #修饰步骤
     @allure.step("新增方法被执行")
     @allure.severity("blocker")
     def test01(self):
+        #修饰描述
         allure.attach("步骤一","")
         allure.attach("步骤二", "")
         allure.attach("步骤三", "")
